@@ -3,9 +3,9 @@
 ### Hi there 👋, I'm Mariful Islam
 #### Front End Developer
 
---I am Mariful Islam, and I am a front-end developer with a proven track record of building modern web applications. I am well-versed in a wide range of technologies, including MongoDB, Express, React, Redux, Next.js, Node.js, PostgreSQL, and Prisma.
+I am Mariful Islam, and I am a front-end developer with a proven track record of building modern web applications. I am well-versed in a wide range of technologies, including MongoDB, Express, React, Redux, Next.js, Node.js, PostgreSQL, and Prisma.
 
---In terms of front-end development, I have a deep understanding of JavaScript and am highly proficient in React.js and Next.js, along with their core principles. My experience includes working with popular React.js workflows such as Redux, Redux Toolkit, and RTK. Additionally, I am well-versed in the latest ECMAScript specifications and proficient in TypeScript.
+In terms of front-end development, I have a deep understanding of JavaScript and am highly proficient in React.js and Next.js, along with their core principles. My experience includes working with popular React.js workflows such as Redux, Redux Toolkit, and RTK. Additionally, I am well-versed in the latest ECMAScript specifications and proficient in TypeScript.
 
 Skills:  HTML / CSS / BOOTSTRAP / TAILWIND CSS / ANT DESIGN / JAVASCRIPT / REACT JS / NEXT JS / MONGOODB / MONGOOSE / EXPRESS JS / POSTGRESQL / PRISMA ODM / JWT TOKEN / FIREBASE
 
