@@ -21,6 +21,3 @@ Skills:  HTML / CSS / BOOTSTRAP / TAILWIND CSS / ANT DESIGN / JAVASCRIPT / REACT
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=maruf1996&show_icons=true&count_private=true)  
 
 ![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/maruf1996/contributions?format=svg&private=true)  
-
-![GitHub metrics](https://metrics.lecoq.io/maruf1996)  
-
