@@ -24,5 +24,3 @@ Skills:  HTML / CSS / BOOTSTRAP / TAILWIND CSS / ANT DESIGN / JAVASCRIPT / REACT
 
 ![GitHub metrics](https://metrics.lecoq.io/maruf1996)  
 
-![GitHub streak stats](https://streak-stats.demolab.com/?user=maruf1996)  
-
